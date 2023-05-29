@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lulu
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning with Udacity and SheCodes.
 - 💞️ I’m looking to collaborate on new starter projects.
 - 📫 How to reach me you can email me on madondolungile@yahoo.com for collaborations
